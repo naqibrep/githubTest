@@ -1,3 +1,3 @@
 # githubTest
 
-This is just for test.
+This is a test.
